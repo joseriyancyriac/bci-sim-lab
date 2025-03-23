@@ -14,4 +14,4 @@ The focus is to explore the integration of brain-computer interface (BCI) system
 ## Resources  
 - [NPTEL: Introductory Neuroscience & Neuro-Instrumentation](https://nptel.ac.in/courses/108108167)  
 - Research Profiles from RPTU  
-- Srishti's input on BCI signal processing techniques  
+- Shrishti's input on BCI signal processing techniques  
